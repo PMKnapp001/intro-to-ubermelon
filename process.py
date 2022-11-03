@@ -11,3 +11,5 @@ def generate_sales_reports(log_file):
 
 #calls function
 generate_sales_reports(log_file)
+
+#made inconsequential change to test git command
